@@ -13,4 +13,10 @@ The tools that are installed with this devcontainer are:
 * aws cli for interacting with AWS environment.
 
 # For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+CandleCraftHub
+
+DIY enthusiasts, candle sellers, and buyers often struggle to find a centralized platform for diverse and creative candle recipes. Current sources may not cater to sellers looking to share or sell their unique recipes, and buyers might not have a dedicated space to discover a wide range of candle options. CandleCraftHub provides a user-friendly platform for DIYers, sellers, and buyers. It's a space where DIYers can explore and contribute creative candle recipes, sellers can showcase and potentially sell their unique creations, and buyers can discover a variety of candles to suit their preferences.
+
+* DIY Enthusiasts: People passionate about creating candles, seeking inspiration and ideas.
+* Candle Sellers: Individuals or businesses looking to showcase and potentially sell their unique candle recipes.
+* Candle Buyers: Consumers interested in discovering and purchasing a diverse range of candles for various occasions.
